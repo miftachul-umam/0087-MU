@@ -1,8 +1,0 @@
-Pengertian Open Source Adalah
-Open source adalah suatu software atau kode pemrograman komputer yang dipublikasikan secara umum pada orang-orang,
-sehingga bisa digunakan, diperbaiki, dimodifikasi, atau disebarkan untuk keperluan pribadi atau hobi,
-perusahaan atau untuk komersil, tanpa harus membayar biaya sedikit pun.
-
-Aplikasi atau software komputer open source dibuat oleh seorang atau kumpulan programer di seluruh dunia 
-dengan menggunakan suatu bahasa pemrograman khusus, teknologi internet mereka gunakan untuk menghubungkan 
-dan menyebarluaskan aplikasi atau kode pemrograman di dalamnya.
