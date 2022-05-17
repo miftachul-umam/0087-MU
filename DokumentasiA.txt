@@ -1,0 +1,28 @@
+Pengertian Open Source Adalah
+Open source adalah suatu software atau kode pemrograman komputer yang dipublikasikan secara umum pada orang-orang, sehingga bisa digunakan, diperbaiki, dimodifikasi, atau disebarkan untuk keperluan pribadi atau hobi, perusahaan atau untuk komersil, tanpa harus membayar biaya sedikit pun.
+
+Aplikasi atau software komputer open source dibuat oleh seorang atau kumpulan programer di seluruh dunia dengan menggunakan suatu bahasa pemrograman khusus, teknologi internet mereka gunakan untuk menghubungkan dan menyebarluaskan aplikasi atau kode pemrograman di dalamnya.
+
+Baca juga: Apa itu JavaScript? Berikut Pembahasan Lengkapnya
+
+Jenis Software Open Source Code
+Perlu Anda ketahui bahwa beberapa software open source yang disediakan oleh para developer bisa Anda peroleh secara cuma-cuma, alias gratis. Tapi, tetap ada juga beberapa software yang diperjualbelikan oleh beberapa perusahaan developer tertentu.
+
+Beberapa jenis software open source adalah sebagai berikut ini.
+
+1. Commercial Software
+Commercial software open source adalah software yang disediakan secara komersial. Itu artinya, software ini memiliki hak cipta, yakni developer itu sendiri. Software komersil ini tidak akan memberikan akses kode sumber pada setiap penggunanya.
+
+Bila mereka ingin mengakses kode sumbernya, maka mereka harus memberikan sejumlah dana insentif atas hak kekayaan intelektual kepada pengembang software tersebut.
+
+Bila sudah membayar hak lisensi pengguna, maka mereka bisa memperoleh sumber kde dan menggunakan software tersebut secara bebas.
+
+2. Free Software
+Istilah free software ini sudah diperdebatkan sejak lama oleh para komunitas teknologi, khususnya untuk teknologi software. Walaupun kedua istilah ini memang sering digunakan bersamaan dengan software opens source, namun, ternyata memiliki perbedaan dengan free software.
+
+Faktanya, keduanya memang memiliki hubungan dan juga mempunyai fitur yang bisa di download dan dimodifikasi oleh setiap penggunanya secara gratis.
+
+Kondisi tersebut memotivasi kemampuan para pengguna untuk menggunakan dan juga menikmati software yang mereka perlukan.
+
+Namun, kriteria software open source yang dikembangkan oleh open source initiative selama satu dekade kemudian akan lebih menekankan pada modifikasi perangkat lunak serta konsekuensi dari mengubah lisensi, kode sumber, dan juga distribusi di dalamnya. Untuk itu, Anda harus memilih sesuai kebutuhan dan keperluan Anda sebelum memilih layanan open source.
+
